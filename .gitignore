@@ -1,5 +1,7 @@
 /*.iml
-/*.xml
 /.idea
 out/
 target/
+.gradle
+**/build/
+!src/**/build/
